@@ -8,4 +8,4 @@ I deployed it to Versel you can check it there :
 
 https://jacques-front.vercel.app/
 
-Feel free to give me advice my twitter is @JohraDev
+Feel free to give me advice, my twitter is @JohraDev
